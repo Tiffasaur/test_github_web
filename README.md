@@ -5,6 +5,7 @@ Just need to push your code to github repository then you are done!
 ## Ref:
 >* [使用 GitHub 免費製作個人網站](https://gitbook.tw/chapters/github/using-github-pages.html)
 >* [不用懂git也能用GitHub Pages架設靜態網站並綁定網域](https://reurl.cc/9zoeWx)
+>* [Web Template from here](https://colorlib.com/wp/templates/)
 
 ## Note
 >* The repository should be public.
