@@ -1,5 +1,4 @@
 # Test github.io
---- 
 This is a simple sample to show howto build a static web on github.   
 Just need to push your code to github repository then you are done!
 
