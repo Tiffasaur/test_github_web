@@ -9,5 +9,5 @@
 >* The repository should be public.
 >* the url will look like: https://{github_account}.github.io/{repository_name}
 
-## Click here to the website we build on github pags
+## Click here to the website we build on github pages
 https://s1002574.github.io/test_github_web
