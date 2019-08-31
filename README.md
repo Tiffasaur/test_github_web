@@ -1,5 +1,6 @@
 # Test github.io
 --- 
+This is a simple sample to show howto build a static web on github. 
 
 ## Ref:
 >* [使用 GitHub 免費製作個人網站](https://gitbook.tw/chapters/github/using-github-pages.html)
